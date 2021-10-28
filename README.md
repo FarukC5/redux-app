@@ -1,2 +1,2 @@
 # redux-app
-My FIrst Redux Application
+My First Redux Application
